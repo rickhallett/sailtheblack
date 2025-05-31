@@ -30,6 +30,9 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
+    - navigation.indexes
+    - toc.follow
+    - toc.integrate
     - search.highlight
     - search.share
     - content.code.copy
@@ -58,6 +61,9 @@ nav:
 
 # Extensions
 markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 3
   - admonition
   - pymdownx.details
   - pymdownx.superfences
