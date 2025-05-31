@@ -140,9 +140,19 @@ First Steps:
 - [ ] add a table of contents to each file
 - [ ] add mkdocs search extension
 - [ ] add mkdocs git-revision-date-localized-plugin
-- [] final testing
+- [] add a contact form
+- [] add a privacy policy page
+- [] add a terms of service page
+- [] add a cookie policy page
+- [] add a disclaimer page
+- [] add a faq page
+- [] add a contact page
+- [] add a donate page
 - [ ] add google analytics / tag manager as per current apis
 - [ ] add sitemap
 - [ ] add robots.txt
 - [ ] add favicon
+- [] final testing
+- [] use gh-deploy to deploy to github pages
+
 
