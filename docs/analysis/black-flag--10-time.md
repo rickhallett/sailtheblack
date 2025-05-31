@@ -12,21 +12,21 @@ This is, of course, an estimation, as actual time can vary based on skill, effic
 
 **Level 1: Basic Awareness & Targeted Mobilization (The "Survey Hack" Focus)**
 
-- **Goal:** Ensure a core group of directly affected and easily reachable people (e.g., De Moulham Road residents, known contacts, existing social media circles) are aware of the survey "hack" and submit their preference for Option 3.
+- **Goal:** Ensure a core group of directly affected and easily reachable people (e.g., De Moulham Road residents, known contacts, existing social media circles) are aware of the [survey "hack"](../core-issue/black-flag--02-core-issue.md#213-mandatory-questions--hack) and submit their preference for [Option 3](../core-issue/black-flag--02-core-issue.md#22-proposed-changes-one-way-vs-two-way-traffic).
 - **Activities & Estimated Man-Hours:**
   - **Technical (Other Speaker):**
-    - **Facebook Page Setup & Basic Content:** 2-4 hours (initial setup, basic info, first few posts explaining the hack).
-    - **Linktree Setup:** 0.5-1 hour.
-    - **QR Code Generation:** 0.5 hours.
-    - **Simple Flyer Design (Digital Template):** 1-2 hours (if providing template for Speaker to print).
-    - **Initial Sentiment Analysis (Quick Pass):** 3-5 hours (reading survey, identifying obvious biases).
+    - **[Facebook Page](../tools/black-flag--05-tools-resources.md#51-facebook-pages-ads---implied) Setup & Basic Content:** 2-4 hours (initial setup, basic info, first few posts explaining the hack).
+    - **[Linktree](../tools/black-flag--05-tools-resources.md#52-linktree-social-media-hub) Setup:** 0.5-1 hour.
+    - **[QR Code](../tools/black-flag--05-tools-resources.md#53-qr-codes) Generation:** 0.5 hours.
+    - **Simple [Flyer](../strategy/black-flag--07-actionables.md#72-design-and-print-flyers-with-qr-code) Design (Digital Template):** 1-2 hours (if providing template for Speaker to print).
+    - **Initial [Sentiment Analysis](../strategy/black-flag--07-actionables.md#73-conduct-sentiment-analysis-of-the-survey) (Quick Pass):** 3-5 hours (reading survey, identifying obvious biases).
     - **Technical Support/Troubleshooting for Speaker:** 1-2 hours (spread throughout).
     - **Total Technical (Level 1): Approx. 8-14.5 hours**
   - **Social (Speaker):**
-    - **Flyer Printing & Initial Distribution:** 4-6 hours (printing locally, initial targeted leaflet drops).
-    - **Direct Canvassing (Highly Targeted - e.g., own street, immediate neighbours):** 10-15 hours (assumes ~50-75 households, 10-15 mins per effective contact).
+    - **[Flyer](../strategy/black-flag--07-actionables.md#72-design-and-print-flyers-with-qr-code) Printing & Initial Distribution:** 4-6 hours (printing locally, initial targeted leaflet drops).
+    - **Direct [Canvassing](../strategy/black-flag--07-actionables.md#74-canvas-key-demographics-youth-de-moulham-road-residents) (Highly Targeted - e.g., own street, immediate neighbours):** 10-15 hours (assumes ~50-75 households, 10-15 mins per effective contact).
     - **Personal Social Media Outreach (Existing Networks):** 5-8 hours (crafting messages, individual outreach, sharing on personal profiles).
-    - **Networking with Key "Super Spreaders" (Initial Contact):** 3-5 hours (meetings/calls with Angelo, Carl, etc.).
+    - **Networking with Key ["Super Spreaders"](../strategy/black-flag--03-tactics-strategy.md#351-super-spreaders) (Initial Contact):** 3-5 hours (meetings/calls with Angelo, Carl, etc.).
     - **Total Social (Level 1): Approx. 22-34 hours**
   - **Total Man-Hours for Level 1: Approx. 30-48.5 hours** (Spread over the first 1-2 weeks)
 - **Expected Outcome:** Several hundred targeted survey submissions. Increased awareness within immediate affected circles. Foundation for broader campaign laid.
@@ -37,17 +37,17 @@ This is, of course, an estimation, as actual time can vary based on skill, effic
 - **Activities & Estimated Man-Hours (Includes Level 1, plus):**
   - **Technical (Other Speaker):**
     - **Enhanced Social Media Management:** 5-10 hours (regular posting, responding to comments, creating simple shareable graphics/memes based on Speaker's input, potentially basic Facebook ad setup if budget allows).
-    - **More In-Depth Sentiment/Bias Report for Council:** 8-12 hours (detailed analysis, writing up findings).
-    - **Developing a Simple Campaign "Manifesto" / Key Arguments Doc:** 3-5 hours (collaborating with Speaker).
-    - **Researching Council Procedures/Contacts for Presentation:** 2-4 hours.
+    - **More In-Depth [Sentiment/Bias Report for Council](../authority/black-flag--04-authority.md#43-presenting-to-council-sentiment-analysis-evidence-of-bias):** 8-12 hours (detailed analysis, writing up findings).
+    - **Developing a Simple [Campaign "Manifesto"](../strategy/black-flag--03-tactics-strategy.md#335-key-slogansmessages-discussed) / Key Arguments Doc:** 3-5 hours (collaborating with Speaker).
+    - **Researching [Council Procedures/Contacts for Presentation](../authority/black-flag--04-authority.md#43-presenting-to-council-sentiment-analysis-evidence-of-bias):** 2-4 hours.
     - **Total Technical (Level 2): Approx. 18-31 hours (additional to Level 1, so ~26-45.5 total)**
   - **Social (Speaker):**
     - **Wider Flyer Distribution & Poster Campaign:** 10-15 hours (more streets, public noticeboards if allowed).
-    - **Expanded Canvassing (More streets, engaging random people in town):** 20-30 hours (could reach several hundred more households/individuals).
+    - **Expanded [Canvassing](../strategy/black-flag--07-actionables.md#74-canvas-key-demographics-youth-de-moulham-road-residents) (More streets, engaging random people in town):** 20-30 hours (could reach several hundred more households/individuals).
     - **Organizing a Small Public Info Stall/Presence (e.g., Saturday market):** 5-8 hours (planning, setup, manning the stall for a few hours).
     - **Active Engagement in Local Facebook Groups:** 5-10 hours (monitoring discussions, sharing campaign info appropriately, responding to queries).
     - **Follow-up with "Super Spreaders" & Encouraging their Networks:** 5-8 hours.
-    - **Initial Outreach to Local Councillors:** 3-5 hours (drafting emails, making calls).
+    - **Initial [Outreach to Local Councillors](../strategy/black-flag--07-actionables.md#75-network-with-super-spreaders-and-local-councillors):** 3-5 hours (drafting emails, making calls).
     - **Total Social (Level 2): Approx. 48-76 hours (additional to Level 1, so ~70-110 total)**
   - **Total Man-Hours for Level 2: Approx. 66-107 hours (additional to Level 1, so ~96-155.5 total)** (Spread over 2-3 weeks)
 - **Expected Outcome:** Potentially 1000+ survey submissions. Noticeable campaign presence in town and online. Initial engagement with local media/councillors. A clearer understanding of broader public sentiment.
@@ -66,9 +66,9 @@ This is, of course, an estimation, as actual time can vary based on skill, effic
     - **Intensive, Systematic Canvassing of All Key Areas:** 30-50 hours (attempting near-saturation coverage in target zones).
     - **Organizing Larger Public Meetings/Events (if feasible):** 10-20 hours (logistics, promotion, hosting).
     - **Proactive Media Outreach (Local papers, radio):** 5-10 hours (drafting press releases, making calls, preparing for interviews).
-    - **Direct Lobbying of Dorset County Councillors:** 10-15 hours (arranging meetings, preparing specific talking points for each).
+    - **Direct [Lobbying of Dorset County Councillors](../authority/black-flag--04-authority.md#43-presenting-to-council-sentiment-analysis-evidence-of-bias):** 10-15 hours (arranging meetings, preparing specific talking points for each).
     - **Coordinating any Volunteer Efforts:** 5-10 hours (if volunteers are recruited).
-    - **Preparing and Rehearsing Council Presentation:** 8-12 hours.
+    - **Preparing and Rehearsing [Council Presentation](../strategy/black-flag--07-actionables.md#76-prepare-presentations-for-council-meetings):** 8-12 hours.
     - **Potential Influencer Outreach (Jonathan Ross, etc. – high effort, uncertain return):** 5-15 hours.
     - **Total Social (Level 3): Approx. 73-132 hours (additional to Level 2, so ~143-242 total)**
   - **Total Man-Hours for Level 3: Approx. 101-182 hours (additional to Level 2, so ~197-337.5 total)** (Intensive effort in the final 2 weeks)
@@ -89,9 +89,9 @@ This is, of course, an estimation, as actual time can vary based on skill, effic
 Given the 30-day timeframe and likely limited resources (primarily the two individuals), **Level 2 coverage is probably the most ambitious yet realistically achievable target.** Level 3 would require an extraordinary, near full-time commitment from both, and/or a significant, well-coordinated volunteer effort that doesn't currently seem to be in place.
 
 The strategy should prioritize:
-1. **Maximizing the "Survey Hack":** This is the highest leverage activity.
-2. **Effective Social Media Dissemination:** Quickest way to reach many.
-3. **Targeted Canvassing:** Focus on the most affected and potentially receptive areas.
-4. **Solid Preparation for Council Engagement:** Even if outreach is limited, the case presented to the council must be strong.
+1. **Maximizing the ["Survey Hack"](../core-issue/black-flag--02-core-issue.md#213-mandatory-questions--hack):** This is the highest leverage activity.
+2. **Effective [Social Media](../tools/black-flag--05-tools-resources.md#51-facebook-pages-ads---implied) Dissemination:** Quickest way to reach many.
+3. **Targeted [Canvassing](../strategy/black-flag--07-actionables.md#74-canvas-key-demographics-youth-de-moulham-road-residents):** Focus on the most affected and potentially receptive areas.
+4. **Solid Preparation for [Council Engagement](../authority/black-flag--04-authority.md):** Even if outreach is limited, the case presented to the council must be strong.
 
 It's crucial to continually assess progress against these time estimates and adjust tactics accordingly. If certain activities are consuming too much time for too little return, they may need to be deprioritized in favor of more impactful ones.
