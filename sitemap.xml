@@ -1,47 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://sailtheblack.github.io/</loc>
+         <loc>https://rickhallett.github.io/sailtheblack/</loc>
          <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://sailtheblack.github.io/analysis/black-flag--01-init-prd/</loc>
+         <loc>https://rickhallett.github.io/sailtheblack/executive-summary/</loc>
          <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://sailtheblack.github.io/analysis/black-flag--06-broader-themes/</loc>
+         <loc>https://rickhallett.github.io/sailtheblack/analysis/black-flag--01-init-prd/</loc>
          <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://sailtheblack.github.io/analysis/black-flag--08-balanced-pragmatism/</loc>
+         <loc>https://rickhallett.github.io/sailtheblack/analysis/black-flag--06-broader-themes/</loc>
          <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://sailtheblack.github.io/analysis/black-flag--09-critique/</loc>
+         <loc>https://rickhallett.github.io/sailtheblack/analysis/black-flag--08-balanced-pragmatism/</loc>
          <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://sailtheblack.github.io/analysis/black-flag--10-time/</loc>
+         <loc>https://rickhallett.github.io/sailtheblack/analysis/black-flag--09-critique/</loc>
          <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://sailtheblack.github.io/authority/black-flag--04-authority/</loc>
+         <loc>https://rickhallett.github.io/sailtheblack/analysis/black-flag--10-time/</loc>
          <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://sailtheblack.github.io/core-issue/black-flag--02-core-issue/</loc>
+         <loc>https://rickhallett.github.io/sailtheblack/authority/black-flag--04-authority/</loc>
          <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://sailtheblack.github.io/strategy/black-flag--03-tactics-strategy/</loc>
+         <loc>https://rickhallett.github.io/sailtheblack/core-issue/black-flag--02-core-issue/</loc>
          <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://sailtheblack.github.io/strategy/black-flag--07-actionables/</loc>
+         <loc>https://rickhallett.github.io/sailtheblack/strategy/black-flag--03-tactics-strategy/</loc>
          <lastmod>2025-05-31</lastmod>
     </url>
     <url>
-         <loc>https://sailtheblack.github.io/tools/black-flag--05-tools-resources/</loc>
+         <loc>https://rickhallett.github.io/sailtheblack/strategy/black-flag--07-actionables/</loc>
+         <lastmod>2025-05-31</lastmod>
+    </url>
+    <url>
+         <loc>https://rickhallett.github.io/sailtheblack/tools/black-flag--05-tools-resources/</loc>
          <lastmod>2025-05-31</lastmod>
     </url>
 </urlset>
