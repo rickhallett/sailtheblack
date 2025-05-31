@@ -1,0 +1,111 @@
+site_name: Shore Road Campaign Wiki
+site_description: Black Flag campaign to preserve two-way traffic on Shore Road in Swanage
+site_author: Shore Road Campaign Team
+site_url: https://sailtheblack.github.io/
+
+# Repository
+repo_name: sailtheblack
+repo_url: https://github.com/sailtheblack/sailtheblack
+
+# Configuration
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: blue grey
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode  
+    - scheme: slate
+      primary: blue grey
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+  icon:
+    repo: fontawesome/brands/github
+
+# Navigation
+nav:
+  - Home: index.md
+  - Core Issue:
+      - Shore Road Traffic Management: core-issue/black-flag--02-core-issue.md
+  - Campaign Strategy:
+      - Tactics & Strategy: strategy/black-flag--03-tactics-strategy.md
+      - Actionable Items: strategy/black-flag--07-actionables.md
+  - Authority & Council:
+      - Council Interaction: authority/black-flag--04-authority.md
+  - Tools & Resources:
+      - Campaign Tools: tools/black-flag--05-tools-resources.md
+  - Analysis & Research:
+      - Product Requirements: analysis/black-flag--01-init-prd.md
+      - Broader Themes: analysis/black-flag--06-broader-themes.md
+      - Balanced Pragmatism: analysis/black-flag--08-balanced-pragmatism.md
+      - Campaign Critique: analysis/black-flag--09-critique.md
+      - Timeline Analysis: analysis/black-flag--10-time.md
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - def_list
+  - abbr
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.keys
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: timeago
+
+# Extra
+extra:
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/KeepSwanageTwoWayTraffic
+      name: Campaign Facebook Page
+  generator: false
+
+# Copyright
+copyright: >
+  Copyright &copy; 2025 Shore Road Campaign Team –
+  <a href="#__consent">Change cookie settings</a>
+
+# Additional CSS
+extra_css:
+  - stylesheets/extra.css
