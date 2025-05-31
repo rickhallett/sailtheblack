@@ -1,4 +1,4 @@
-# Shore Road Campaign Wiki
+# Sail the Black - wiki
 
 **Black Flag Campaign to Preserve Two-Way Traffic on Shore Road in Swanage**
 
