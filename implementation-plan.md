@@ -57,23 +57,33 @@ This document tracks the implementation of the Shore Road Campaign Wiki based on
 **Completion Date:** 2025-05-31
 
 #### Task 1.3: Create Docs Folder Structure
-**Status:** 🟡 PENDING  
+**Status:** ✅ COMPLETE  
 **Description:** Move formatted files to `docs/` folder for MkDocs  
-**Structure:**
+**Structure Created:**
 ```
 docs/
-├── index.md (from initial-debrief.md)
+├── index.md (from black-flag--00-initial-debrief.md)
 ├── core-issue/
+│   └── black-flag--02-core-issue.md
 ├── strategy/
+│   ├── black-flag--03-tactics-strategy.md
+│   └── black-flag--07-actionables.md
 ├── authority/
+│   └── black-flag--04-authority.md
 ├── tools/
+│   └── black-flag--05-tools-resources.md
 ├── analysis/
-└── assets/
+│   ├── black-flag--01-init-prd.md
+│   ├── black-flag--06-broader-themes.md
+│   ├── black-flag--08-balanced-pragmatism.md
+│   ├── black-flag--09-critique.md
+│   └── black-flag--10-time.md
+└── assets/ (empty, ready for images/media)
 ```
 
-**Notes:**  
-**Errors:**  
-**Completion Date:**
+**Notes:** All files copied to docs/ structure while preserving originals in root. Index page created from initial debrief.  
+**Errors:** None  
+**Completion Date:** 2025-05-31
 
 ### Phase 2: MkDocs Setup and Configuration
 
