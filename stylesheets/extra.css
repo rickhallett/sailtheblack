@@ -1,0 +1,61 @@
+/* Shore Road Campaign Wiki - Extra Styling */
+
+/* Brand colors and campaign theming */
+:root {
+  --campaign-primary: #37474f;
+  --campaign-accent: #ff5722;
+  --campaign-highlight: #ffd54f;
+}
+
+/* Enhanced blockquotes for important campaign messages */
+.md-typeset blockquote {
+  border-left: 4px solid var(--campaign-accent);
+  background-color: rgba(255, 87, 34, 0.05);
+}
+
+/* Campaign emphasis styling */
+.campaign-emphasis {
+  background-color: var(--campaign-highlight);
+  padding: 2px 4px;
+  border-radius: 3px;
+  font-weight: 500;
+}
+
+/* Survey hack highlight */
+.survey-hack {
+  background: linear-gradient(90deg, #ff5722, #ff7043);
+  color: white;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-weight: bold;
+  display: inline-block;
+  margin: 4px 0;
+}
+
+/* Timeline and deadline emphasis */
+.deadline-warning {
+  border: 2px solid #f44336;
+  background-color: rgba(244, 67, 54, 0.1);
+  padding: 12px;
+  border-radius: 8px;
+  margin: 16px 0;
+}
+
+/* Campaign action items */
+.action-item {
+  border-left: 4px solid #4caf50;
+  background-color: rgba(76, 175, 80, 0.05);
+  padding: 12px;
+  margin: 8px 0;
+  border-radius: 0 4px 4px 0;
+}
+
+/* Navigation enhancement for better UX */
+.md-nav__title {
+  font-weight: 600;
+}
+
+/* Footer customization */
+.md-footer-meta {
+  background-color: var(--campaign-primary);
+}
