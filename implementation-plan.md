@@ -36,18 +36,25 @@ This document tracks the implementation of the Shore Road Campaign Wiki based on
 **Completion Date:** 2025-05-31
 
 #### Task 1.2: Markdown Formatting Standardization
-**Status:** 🟡 PENDING  
+**Status:** ✅ COMPLETE  
 **Description:** Format each file to use proper markdown conventions (headings, subheadings, lists, etc.)  
 **Requirements:**
-- Consistent heading hierarchy (# ## ### ####)
-- Proper list formatting (- * for bullets, 1. for numbered)
-- Code blocks with syntax highlighting where applicable
-- Proper link formatting
-- Table formatting if needed
+- ✅ Consistent heading hierarchy (# ## ### ####)
+- ✅ Proper list formatting (- for bullets, 1. for numbered)
+- ✅ Code blocks with syntax highlighting where applicable
+- ✅ Proper link formatting
+- ✅ Table formatting if needed
 
-**Notes:**  
-**Errors:**  
-**Completion Date:**
+**Changes Made:**
+- Standardized all bullet points to use `-` instead of mixed `*` and `-`
+- Fixed nested bullet point indentation for consistent hierarchy
+- Standardized numbered lists to use single space after numbers
+- Maintained proper spacing around headers
+- Processed all 11 black-flag--*.md files
+
+**Notes:** All files now follow consistent markdown standards. Content preserved exactly, only formatting structure modified.  
+**Errors:** None  
+**Completion Date:** 2025-05-31
 
 #### Task 1.3: Create Docs Folder Structure
 **Status:** 🟡 PENDING  
