@@ -1,11 +1,11 @@
 site_name: Shore Road Campaign Wiki
 site_description: Black Flag campaign to preserve two-way traffic on Shore Road in Swanage
 site_author: Shore Road Campaign Team
-site_url: https://sailtheblack.github.io/
+site_url: https://rickhallett.github.io/sailtheblack/
 
 # Repository
 repo_name: sailtheblack
-repo_url: https://github.com/sailtheblack/sailtheblack
+repo_url: https://github.com/rickhallett/sailtheblack
 
 # Configuration
 theme:
@@ -43,6 +43,7 @@ theme:
 # Navigation
 nav:
   - Home: index.md
+  - Executive Summary: executive-summary.md
   - Core Issue:
       - Shore Road Traffic Management: core-issue/black-flag--02-core-issue.md
   - Campaign Strategy:
