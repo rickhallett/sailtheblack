@@ -1,0 +1,5 @@
+kdf_iterations: 10000
+obfuscate: {}
+password:
+  BlackFlag2025!: 322db8d290084a15a027725a5ea7f0026f4ca4342736be16ca94b5595b97dabd;e8d45203e3f4f51f473f93fa3b67261c;acccaf91f901299fd052b8b8f6de270c33e729009aad3904d9cc8e2d50903dbb
+userpass: {}

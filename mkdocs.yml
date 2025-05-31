@@ -99,6 +99,13 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
       type: timeago
+  - encryptcontent:
+      global_password: !ENV WIKI_PASSWORD
+      password_button_text: 'Access Campaign Wiki'
+      decryption_failure_message: 'Invalid password. Contact campaign team for access.'
+      remember_password: true
+      session_storage: true
+      search_index: 'clear'
 
 # Extra
 extra:
