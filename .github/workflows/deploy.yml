@@ -1,37 +1,37 @@
-name: Deploy MkDocs
+# name: Deploy MkDocs
 
-on:
-  push:
-    branches: [ main ]
-  workflow_dispatch:
+# on:
+#   push:
+#     branches: [ main ]
+#   workflow_dispatch:
 
-permissions:
-  contents: write
+# permissions:
+#   contents: write
 
-jobs:
-  deploy:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
+# jobs:
+#   deploy:
+#     runs-on: ubuntu-latest
+#     steps:
+#     - name: Checkout
+#       uses: actions/checkout@v4
+#       with:
+#         fetch-depth: 0
         
-    - name: Setup Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.x'
+#     - name: Setup Python
+#       uses: actions/setup-python@v4
+#       with:
+#         python-version: '3.x'
         
-    - name: Install dependencies
-      run: |
-        pip install mkdocs mkdocs-material mkdocs-encryptcontent-plugin mkdocs-git-revision-date-localized-plugin
+#     - name: Install dependencies
+#       run: |
+#         pip install mkdocs mkdocs-material mkdocs-encryptcontent-plugin mkdocs-git-revision-date-localized-plugin
         
-    - name: Configure git
-      run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+#     - name: Configure git
+#       run: |
+#         git config --global user.name 'github-actions[bot]'
+#         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         
-    - name: Deploy to GitHub Pages
-      run: mkdocs gh-deploy
-      env:
-        WIKI_PASSWORD: ${{ secrets.WIKI_PASSWORD }}
+#     - name: Deploy to GitHub Pages
+#       run: mkdocs gh-deploy
+#       env:
+#         WIKI_PASSWORD: ${{ secrets.WIKI_PASSWORD }}
